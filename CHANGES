@@ -1,3 +1,6 @@
+5302.	[bug]		"geoip-use-ecs yes;" was not working for GeoIP2.
+			[GL #1275]
+
 5301.	[bug]		Detect partial prefixes / incomplete IPv4 address in
 			acls. [GL #1143]
 
